@@ -34,27 +34,6 @@
 包括了后台页面调整，后台显示菜单更改主题以解决日趋增长的需求让旧的菜单显示难以维护，最终采用了jquery easyui的accordion;后台crm的一些数据报表, 以及日常的代码bug修复和优化处理等等
 
  
-## 个人项目
- - 目前<br>
-	1.从去年九月份微信小程序内测就开始关注，本地也写了几个demo，因为种种限制也只好让他们尘封先。
-	2.git仓库有最近写的一个angular2.x的demo和angular1.5的webapp项目
-- 过去 <br>
-	1.大学自学过一年的原生安卓开发，写过短信app，小游戏，
-	2.写过unity3d引擎游戏```大学学的是游戏开发方向```,基于construct2的H5游戏，cocoa的微信小游戏
-
-
----
-
-## 开源项目和作品
-- [请移步,近期将上传](http://github.com/lynhao)
-
-## 技术文章（部分）
-
-- [科学上网系列1](http://mp.weixin.qq.com/s/xUSSQwkAkviPR_-66kySwA) &nbsp;&nbsp;&nbsp;&nbsp;[科学上网系列2](http://mp.weixin.qq.com/s/BQehAmcLFhfPabYQl57vRQ)
-
-- [安卓handle源码分析1](http://mp.weixin.qq.com/s/5cIqEt0fi4egyESrpB2HOw) &nbsp;&nbsp;&nbsp;&nbsp; [安卓handle源码分析2](http://mp.weixin.qq.com/s/2LJIj32c0SZ6JM6DOeioNw) 
-- [ES6](http://mp.weixin.qq.com/s/NAyUS4xG7ACtAx3t_cC30g)
-
 # 技能清单
 以下均为我熟练使用的技能
 
@@ -73,6 +52,28 @@
 - 初涩web安全，了解xcss csrf一些经典场景,熟悉HTTP、TCP/IP通讯协议
 - 热爱80多年Java咖啡:熟悉掌握Java进行代码编程，了解java放射机制,了解javaIO流操作等,基本熟悉常用的设计模式； 
 - 对原生Android情有独钟:四大组件,熟悉socket操作,使用过Mina网络框架,熟悉安卓自定义View的基本操作,XML/JSON解析、熟悉Fragment与多个界面的交互,熟悉Volley网络框架post/get、网络加载图片和缓存图片,熟悉adt和android studio开发工具,熟悉Handler、AsyncTask异步
+
+---
+## 个人项目
+- 目前<br>
+	1.从去年九月份微信小程序内测就开始关注，本地也写了几个demo，因为种种限制也只好让他们尘封先。
+	2.git仓库有最近写的一个angular2.x的demo和angular1.5的webapp项目
+- 过去<br>
+	1.大学自学过一年的原生安卓开发，写过短信app，小游戏，
+	2.写过unity3d引擎游戏```大学学的是游戏开发方向```,基于construct2的H5游戏，cocoa的微信小游戏
+
+
+---
+
+## 开源项目和作品
+- [请移步,近期将上传](http://github.com/lynhao)
+
+## 技术文章（部分）
+
+- [科学上网系列1](http://mp.weixin.qq.com/s/xUSSQwkAkviPR_-66kySwA) &nbsp;&nbsp;&nbsp;&nbsp;[科学上网系列2](http://mp.weixin.qq.com/s/BQehAmcLFhfPabYQl57vRQ)
+
+- [安卓handle源码分析1](http://mp.weixin.qq.com/s/5cIqEt0fi4egyESrpB2HOw) &nbsp;&nbsp;&nbsp;&nbsp; [安卓handle源码分析2](http://mp.weixin.qq.com/s/2LJIj32c0SZ6JM6DOeioNw) 
+- [ES6](http://mp.weixin.qq.com/s/NAyUS4xG7ACtAx3t_cC30g)
 
 ---
 
