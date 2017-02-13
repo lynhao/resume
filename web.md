@@ -18,7 +18,7 @@
  - 发表过的文章: http://www.imooc.com/u/1303995/articles
  - Github：http://github.com/lynhao
 
- - 期望职位：Web前端程序员,偏App方向
+ - 期望职位：Web前端,偏App方向
  - 期望薪资：6k
  - 期望城市：广州、深圳
 
