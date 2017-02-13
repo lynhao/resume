@@ -51,7 +51,7 @@
 ---
 
 ## 开源项目和作品
-- [请移步](http://github.com/lynhao)
+- [请移步,近期将上传](http://github.com/lynhao)
 
 ## 技术文章（部分）
 
