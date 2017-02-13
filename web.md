@@ -70,8 +70,9 @@
 # 技能总结
 - 热爱新技术乐此不疲，热爱hybrid app开发，热爱AngularJs，Angular，从1.x到2.x版本过来对mvvm有着切身感受，具备良好的代码风格，较好的英文文档阅读能力。
 - 写过小程序，django，捣鼓过图像识别技术 #基于python3 
+- 初涩web安全，了解xcss csrf一些经典场景,熟悉HTTP、TCP/IP通讯协议
 - 热爱80多年Java咖啡:熟悉掌握Java进行代码编程，了解java放射机制,了解javaIO流操作等,基本熟悉常用的设计模式； 
-- 对原生Android情有独钟:四大组件,熟悉HTTP、TCP/IP通讯协议,熟悉socket操作,使用过Mina网络框架,熟悉安卓自定义View的基本操作,XML/JSON解析、熟悉Fragment与多个界面的交互,熟悉Volley网络框架post/get、网络加载图片和缓存图片,熟悉adt和android studio开发工具,熟悉Handler、AsyncTask异步
+- 对原生Android情有独钟:四大组件,熟悉socket操作,使用过Mina网络框架,熟悉安卓自定义View的基本操作,XML/JSON解析、熟悉Fragment与多个界面的交互,熟悉Volley网络框架post/get、网络加载图片和缓存图片,熟悉adt和android studio开发工具,熟悉Handler、AsyncTask异步
 
 ---
 
