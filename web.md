@@ -8,16 +8,11 @@
 
 # 个人信息
 
- - 林浩/男/1994
+ - 林浩/男/1994/应届生
  - 专科/广东机电职业学院/软件技术 17年毕业
  - 本科/华南师范大学/ 17年毕业
  - 英语水平: CET4
  - 工作年限：1年
- - 技术博客：http://lynhao.github.io 
- - 微信公众号(以前写文章的地方):```搜索公众号 林浩``` 
- - 发表过的文章: http://www.imooc.com/u/1303995/articles
- - Github：http://github.com/lynhao
-
  - 期望职位：Web前端,偏App方向
  - 期望薪资：6k
  - 期望城市：广州、深圳
@@ -82,3 +77,9 @@
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+# 足迹
+ - 技术博客：http://lynhao.github.io 
+ - 微信公众号(以前写文章的地方):```搜索公众号 林浩``` 
+ - 发表过的文章: http://www.imooc.com/u/1303995/articles
+ - Github：http://github.com/lynhao
