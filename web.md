@@ -58,7 +58,7 @@
 - [科学上网系列1](http://mp.weixin.qq.com/s/xUSSQwkAkviPR_-66kySwA) &nbsp;&nbsp;&nbsp;&nbsp;[科学上网系列2](http://mp.weixin.qq.com/s/BQehAmcLFhfPabYQl57vRQ)
 
 - [安卓handle源码分析1](http://mp.weixin.qq.com/s/5cIqEt0fi4egyESrpB2HOw) &nbsp;&nbsp;&nbsp;&nbsp; [安卓handle源码分析2](http://mp.weixin.qq.com/s/2LJIj32c0SZ6JM6DOeioNw) 
-- [ES6函数](http://mp.weixin.qq.com/s/NAyUS4xG7ACtAx3t_cC30g)
+- [ES6](http://mp.weixin.qq.com/s/NAyUS4xG7ACtAx3t_cC30g)
 
 # 技能清单
 以下均为我熟练使用的技能
