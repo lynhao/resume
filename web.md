@@ -75,13 +75,13 @@
 - [安卓handle源码分析1](http://mp.weixin.qq.com/s/5cIqEt0fi4egyESrpB2HOw) &nbsp;&nbsp;&nbsp;&nbsp; [安卓handle源码分析2](http://mp.weixin.qq.com/s/2LJIj32c0SZ6JM6DOeioNw) 
 - [ES6](http://mp.weixin.qq.com/s/NAyUS4xG7ACtAx3t_cC30g)
 
----
-
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
-
 # 足迹
  - 技术博客：http://lynhao.github.io 
  - 微信公众号(以前写文章的地方):```搜索公众号 林浩``` 
  - 发表过的文章: http://www.imooc.com/u/1303995/articles
  - Github：http://github.com/lynhao
+ 
+ ---
+ 
+ # 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
